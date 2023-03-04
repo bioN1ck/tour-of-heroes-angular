@@ -1,6 +1,7 @@
-# TourOfHeroesAngular
+# Tour Of Heroes Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.9.
+This project is an alternative version of the official Angular ToH application.
+But I used singleton components and a declarative approach for reactive data streams in this version.
 
 ## Development server
 
